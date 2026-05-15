@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Hellow, world! - I'm Misbah Ahmed
 
-<!--
-**misbah-313/misbah-313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Python Developer | Data Analytics Learner | Problem Solver**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I focus on building practical projects that strengthen my core programming skills while moving toward data analytics and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Background in **Mathematics**
+* 💡 Currently learning: **Python, Data Analytics, DSA**
+* 🔍 Interested in: **Data Science, Backend Development, Automation**
+* 🌍 Based in: **Bangladesh**
+* 📈 Goal: To become a **Practical Problem solver**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
+
+* Python 🐍
+* HTML, CSS 🌐
+* Flask 🔥
+* Git & GitHub 🧰
+* Linux 🐧
+
+**Currently Exploring:**
+
+* Pandas & NumPy
+* SQL
+* Data Analytics
+
+---
+
+## 📂 Featured Projects
+
+### ☕ Coffee Machine Program
+
+A command-line based simulation of a real-world coffee machine.
+
+* Handles resources like water, milk, and coffee
+* Processes coin input and transactions
+* Generates reports for remaining resources
+* 📌 Focus: **Logic building, functions, condition handling**
+
+---
+
+### 🧪 Periodic Table App
+
+An interactive application to explore chemical elements.
+
+* Displays element details (symbol, atomic number, etc.)
+* User-friendly structure for learning chemistry basics
+* 📌 Focus: **Data handling, structured programming**
+
+---
+
+### 🐍 Snake Game
+
+A classic Snake game built using Python.
+
+* Real-time movement and controls
+* Score tracking system
+* Game-over detection and restart logic
+* 📌 Focus: **Game logic, loops, event handling**
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mrmisbah)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sheikh.misbah.3382)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mrmisbah@proton.me)
+
+---
+
+## ⚡ Current Focus
+
+* Building real-world **Flask web applications**
+* Strengthening **data analysis skills**
+* Solidify **DSA skills with Python**
+
+---
+
+## ✨ Mindset
+
+I believe in **consistency over intensity**. Small daily improvements are compounding my long-term success in tech.
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
+
