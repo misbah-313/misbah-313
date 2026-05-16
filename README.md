@@ -84,7 +84,7 @@ A classic Snake game built using Python.
 
 ## ✨ Mindset
 
-I believe in **consistency over intensity**. Small daily improvements are compounding my long-term success in tech.
+I believe in **consistency over intensity**.
 
 ---
 
